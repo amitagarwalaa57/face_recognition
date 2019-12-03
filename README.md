@@ -1,4 +1,5 @@
-# face_recognition
+# Face_recognition
 Different face recognition techniques
 
-1. 
+1. Using HOG
+
